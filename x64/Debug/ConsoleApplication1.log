@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Co najmniej dwa pliki o nazwie ConsoleApplication1.cpp będą tworzyć dane wyjściowe w tej samej lokalizacji. Może to spowodować niepoprawny wynik kompilacji. Pliki, których dotyczy problem: ..\..\..\88aa56cf-gr05-repo\projekt\ConsoleApplication1\ConsoleApplication1.cpp, ConsoleApplication1.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Co najmniej dwa pliki o nazwie funkcje.cpp będą tworzyć dane wyjściowe w tej samej lokalizacji. Może to spowodować niepoprawny wynik kompilacji. Pliki, których dotyczy problem: ..\..\..\88aa56cf-gr05-repo\projekt\ConsoleApplication1\funkcje.cpp, funkcje.cpp.
+  ConsoleApplication1.cpp
+  funkcje.cpp
+C:\Users\skire\88aa56cf-gr05-repo\projekt\ConsoleApplication1\funkcje.cpp(614,2): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+x64\Debug\ConsoleApplication1.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+x64\Debug\funkcje.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+  ConsoleApplication1.vcxproj -> C:\Users\skire\Desktop\projekt\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

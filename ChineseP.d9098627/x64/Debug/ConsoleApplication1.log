@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+  funkcje.cpp
+C:\Users\skire\Desktop\ChinesePostmanProblem\Chinese-Postman-Problem\funkcje.cpp(597,22): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  ConsoleApplication1.vcxproj -> C:\Users\skire\Desktop\ChinesePostmanProblem\Chinese-Postman-Problem\x64\Debug\ChinesePostmanProblem.exe

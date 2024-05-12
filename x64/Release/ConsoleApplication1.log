@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (projektsql.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  ConsoleApplication1.cpp
+  funkcje.cpp
+LINK : fatal error LNK1104: nie można otworzyć pliku „C:\Users\skire\Desktop\projekt\ConsoleApplication1\x64\Release\ConsoleApplication1.exe”
